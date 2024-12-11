@@ -1,0 +1,153 @@
+﻿  Bullet.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Bullet.cpp')
+  
+  Button.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Button.cpp')
+  
+  BaseCharacter.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'BaseCharacter.cpp')
+  
+  DinoGame.cpp
+  DinoMaulidzar.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'DinoMaulidzar.cpp')
+  
+  DinoMenu.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'DinoMenu.cpp')
+  
+  Enemy.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Enemy.cpp')
+  
+  Lesson11_ParallaxScrolling.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson11_ParallaxScrolling.cpp')
+  
+  LessonAI01_SteeringBehaviors.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'LessonAI01_SteeringBehaviors.cpp')
+  
+  LessonAI02_NPCWave.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'LessonAI02_NPCWave.cpp')
+  
+  Game.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Game.cpp')
+  
+  Launcher.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Launcher.cpp')
+  
+  Lesson10_Platform.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson10_Platform.cpp')
+  
+  Hero.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Hero.cpp')
+  
+  InGameScreen.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'InGameScreen.cpp')
+  
+  Input.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Input.h(6,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Input.cpp')
+  
+  Lesson01_BgColor.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson01_BgColor.cpp')
+  
+  Lesson02_Lerp.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson02_Lerp.cpp')
+  
+  Lesson03_Animation.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson03_Animation.cpp')
+  
+  Lesson04_Movement.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson04_Movement.cpp')
+  
+  Generating Code...
+  Compiling...
+  Lesson05_Input.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson05_Input.cpp')
+  
+  Lesson06_ObjectPool.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson06_ObjectPool.cpp')
+  
+  Lesson07_GUI.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson07_GUI.cpp')
+  
+  Lesson08_Rotation.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson08_Rotation.cpp')
+  
+  Lesson09_Bullet.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Lesson09_Bullet.cpp')
+  
+  MainMenuScreen.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'MainMenuScreen.cpp')
+  
+  Music.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Music.h(4,10): error C1083: Cannot open include file: 'SDL/SDL_mixer.h': No such file or directory
+  (compiling source file 'Music.cpp')
+  
+  BoundingBox.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\BoundingBox.h(4,10): error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  (compiling source file 'BoundingBox.cpp')
+  
+  Quad.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Quad.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Quad.cpp')
+  
+  SATCollision.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\SATCollision.h(4,10): error C1083: Cannot open include file: 'GLM/glm.hpp': No such file or directory
+  (compiling source file 'SATCollision.cpp')
+  
+  Screen.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Screen.cpp')
+  
+  ScreenManager.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Game.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'ScreenManager.cpp')
+  
+  Setting.cpp
+  Shader.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Shader.cpp')
+  
+  Sound.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Sound.h(4,10): error C1083: Cannot open include file: 'SDL/SDL_mixer.h': No such file or directory
+  (compiling source file 'Sound.cpp')
+  
+  Sprite.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Sprite.cpp')
+  
+  Text.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Text.h(4,10): error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  (compiling source file 'Text.cpp')
+  
+  Texture.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Texture.h(5,10): error C1083: Cannot open include file: 'SOIL/SOIL.h': No such file or directory
+  (compiling source file 'Texture.cpp')
+  
+  Turtle.cpp
+C:\Users\REZA\OneDrive\Documents\Coding\Games\Pemgim-DinoMaulidzar\Project\Shader.h(4,10): error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  (compiling source file 'Turtle.cpp')
+  
+  Generating Code...
